@@ -8,4 +8,4 @@ Not-and as a service.
 - very easy to learn and master
 - supports HTTPS for secure remote logic
 
-try is for free at e.g. http://ftregan.github.io/nandaas/true/true
+try is for free at e.g. [https://fabientregan.github.io/nandaas/false/false]
