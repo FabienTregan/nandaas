@@ -8,4 +8,4 @@ Not-and as a service.
 - very easy to learn and master
 - supports HTTPS for secure remote logic
 
-Sample usage (here)[https://fabientregan.github.io/nandaas/false/false/].
+Sample usage [here](https://fabientregan.github.io/nandaas/false/false/).
